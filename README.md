@@ -1,4 +1,4 @@
-Demo: https://martensit2019.github.io/Currency-convertor-vue/convertor
+Demo: https://martensit2019.github.io/Currency-convertor-vue/
 
 ## Project setup
 ```
